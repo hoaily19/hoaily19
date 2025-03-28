@@ -1,7 +1,8 @@
 # 💫 About Me:
 I've been learning to code for 1 years. I started with HTML, but have really found a passion for backend and frontend development...
 
-
+##Education
+FPT Poly technic (2023- up to now)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gYQkxT3d) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hoaily19.vn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hoaily0602) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hoaily_19) 
 
