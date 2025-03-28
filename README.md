@@ -2,9 +2,9 @@
 Hi, I am Hoai, a web developer with experience in both frontend and backend. 
 I use technologies such as HTML, CSS, JavaScript, Vue.js, TailWin for frontend, and PHP, Node.js, Laravel MySQL for backend.
 Currently, I am a student and always looking for opportunities to learn and develop skills in the field of web programming.
-## 🎓 Education:
-Currently learning: PHP backend development
-FPT Poly technic (2023- Up to now)
+## 🎓 Education
+- **Currently learning**: PHP backend development
+- **FPT Polytechnic** (2023 - Present)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gYQkxT3d) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hoaily19.vn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hoaily0602) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hoaily_19) 
