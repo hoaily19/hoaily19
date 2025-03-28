@@ -1,6 +1,7 @@
-# 💫 About Me:
-I've been learning to code for 1 years. I started with HTML, but have really found a passion for backend and frontend development...
-
+# 💫 Ly Xuan Hoai:
+Hi, I am Hoai, a web developer with experience in both frontend and backend. 
+I use technologies such as HTML, CSS, JavaScript, Vue.js, TailWin for frontend, and PHP, Node.js, Laravel MySQL for backend.
+Currently, I am a student and always looking for opportunities to learn and develop skills in the field of web programming.
 ## 🎓 Education:
 FPT Poly technic (2023- Up to now)
 
