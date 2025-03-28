@@ -1,7 +1,8 @@
-# 💫 Ly Xuan Hoai:
-Hi, I am Hoai, a web developer with experience in both frontend and backend. 
-I use technologies such as HTML, CSS, JavaScript, Vue.js, TailWin for frontend, and PHP, Node.js, Laravel MySQL for backend.
-Currently, I am a student and always looking for opportunities to learn and develop skills in the field of web programming.
+# 💫 Ly Xuan Hoai
+- Hi, I am Hoai, a web developer with experience in both frontend and backend.
+- I use technologies such as:
+  - **Frontend**: HTML, CSS, JavaScript, Vue.js, Tailwind CSS
+  - **Backend**: PHP, Node.js, Laravel, MySQL
 ## 🎓 Education
 - **Currently learning**: PHP backend development
 - **FPT Polytechnic** (2023 - Present)
